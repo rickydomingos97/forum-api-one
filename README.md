@@ -1,4 +1,4 @@
-## ## **API REST de Fórum: Construa sua Comunidade Online**
+## **API REST de Fórum: Construa sua Comunidade Online**
 
 **Seja bem-vindo ao repositório da API REST de Fórum!** 
 
@@ -82,13 +82,6 @@ Após iniciar a aplicação, você poderá acessar a API em:
 http://localhost:8080/api/v1/topics
 ```
 
-**Documentação da API:**
-
-A documentação completa da API está disponível em:
-
-```
-http://localhost:8080/swagger-ui/
-```
 
 **Contribuições:**
 
@@ -99,3 +92,5 @@ Este projeto é de código aberto e incentivamos a participação da comunidade!
 Este projeto está sob a licença Apache License 2.0.
 
 **Esperamos que você aproveite este projeto e construa fóruns incríveis com sua comunidade!** 
+
+**Feito com :blue_heart: by RickyDomingos**
