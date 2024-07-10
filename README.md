@@ -4,19 +4,18 @@
 
 Este projeto oferece uma plataforma completa para gerenciar tópicos de discussão e interação entre usuários, ideal para criar comunidades vibrantes e engajadas. Desenvolvido com as melhores tecnologias Java, este projeto é de código aberto e pronto para ser usado, clonado ou modificado de acordo com suas necessidades.
 
-**Tecnologias Utilizadas:**
+**Tecnologias Utilizadas no projeto:**
 
-* **Java 11+:** A linguagem de programação robusta e confiável para desenvolvimento de back-end.
-* **Spring Boot:** Framework web poderoso que simplifica a criação de aplicações RESTful.
+* **Java 17+:** A linguagem de programação robusta e confiável para desenvolvimento de back-end.
+* **Spring Boot: 3.3.1** Framework web poderoso que simplifica a criação de aplicações RESTful.
 * **Spring Web:** Biblioteca completa para construir APIs RESTful com Spring.
-* **Spring Doc:** Gere documentação OpenAPI automaticamente para sua API.
 * **Spring Data JPA:** Simplifique o acesso e a manipulação de dados com JPA e repositórios.
 * **Flyway Migrations:** Gerencie suas migrações de banco de dados com facilidade e segurança.
 * **Lombok:** Reduza o código repetitivo e melhore a legibilidade com anotações poderosas.
 * **Auth0 JWT:** Autenticação e autorização seguras com tokens JSON Web.
 * **MySQL:** Banco de dados relacional popular para armazenamento de dados robusto.
 
-**Funcionalidades:**
+**Funcionalidades da aplicação:**
 
 * **Criação de tópicos:** Os usuários podem criar novos tópicos com título, descrição e tags.
 * **Respostas a tópicos:** Permita que os usuários respondam a tópicos existentes, gerando discussões e engajamento.
@@ -28,7 +27,7 @@ Este projeto oferece uma plataforma completa para gerenciar tópicos de discuss�
 
 **Pré-requisitos:**
 
-* Java 11+ instalado
+* Java 17+ instalado
 * Maven instalado
 * Banco de dados MySQL configurado
 
@@ -52,12 +51,6 @@ cd api-forum
 mvn install
 ```
 
-3. Execute a aplicação:
-
-```bash
-mvn spring-boot:run
-```
-
 **Executando no Windows:**
 
 1. Abra o prompt de comando e navegue para o diretório do projeto.
@@ -68,24 +61,11 @@ mvn spring-boot:run
 mvn install
 ```
 
-3. Execute o seguinte comando para iniciar a aplicação:
-
-```bash
-mvn spring-boot:run
-```
-
-**Acesse a API:**
-
-Após iniciar a aplicação, você poderá acessar a API em:
-
-```
-http://localhost:8080/api/v1/topics
-```
-
-
 **Contribuições:**
 
 Este projeto é de código aberto e incentivamos a participação da comunidade! Sinta-se à vontade para contribuir com sugestões, correções de bugs ou novos recursos.
+
+### Projeto em construção.
 
 **Licença:**
 

@@ -1,4 +1,4 @@
-package br.com.ricky_forum_hub_api.forum.api.springdoc;
+package br.com.ricky_forum_hub_api.forum.api.springdocs;
 
 import io.swagger.v3.oas.models.Components;
 import io.swagger.v3.oas.models.OpenAPI;
